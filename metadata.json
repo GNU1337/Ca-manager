@@ -1,0 +1,6 @@
+{
+  "name": "CS Manager 2D",
+  "description": "Retro top-down 2D Counter-Strike manager simulation game with real-time tactical match engine, player market, staff recruitment, facility upgrades, and tournament leagues.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
